@@ -5,28 +5,16 @@
 
 ### Содержание:
 - [advancedmarkdownlab3.md](/docs/advancedmarkdownlab3.md)
-    * [screenshot](/img/advancedmarkdowncommitlab3.png)
 - [codequoteslab3.md](/docs/codequoteslab3.md)
-    * screenshot
 - [formattinglab3.md](/docs/formattinglab3.md)
-    * screenshot
 - [headerslab3.md](/docs/headerslab3.md)
-    * screenshot
 - [kommentcs.md](/docs/kommentcs.md)
-    * screenshot
 - [latexlab3.md](/docs/latexlab3.md)
-    * screenshot
 - [linksimageslab3.md](/docs/linksimageslab3.md)
-    * screenshot
 - [listslab3.md](/docs/listslab3.md)
-    * screenshot
 - [readmepushlab3.md](/docs/readmepushlab3.md)
-    * screenshot
 - [separatorslab3.md](/docs/separatorslab3.md)
-    * screenshot
 - [tableslab3.md](/docs/tableslab3.md)
-    * screenshot
-
 
 #### 3. форматирование текста
 * **полужирный**
@@ -93,15 +81,6 @@ $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
 
-
-
-
-
-| Функция | Команда git | Описание |
-|----------|-----------| -----------|
-| Создание репозитория | **git init** |  Инициализация репозитория |
-| Просмотр состояния | **git status** |  Показывает изменённые файлы |
-| Отправка на github | **git push** |  Загружает коммиты на сервер |
 
 [^markdown]: популярный язык разметки
 [^pizza]: традиционное итальянское блюдо, изначально в виде круглой дрожжевой лепёшки, выпекаемой с уложенной сверху начинкой из томатного соуса, сыра и зачастую других ингредиентов, таких как мясо, овощи, грибы и прочие продукты. Небольшую пиццу иногда называют пиццеттой. Повар, специализирующийся на приготовлении пиццы, — пиццайоло.
